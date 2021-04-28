@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "users": [
+    { "id": 1, "username": "adam" },
+    { "id": 2, "username": "sarah" },
+    { "id": 3, "username": "matthew" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "user": [
+    { "id": 1, "username": "adam", "city": "Chicago", "favoriteColor": "red", age: 25 },
+    { "id": 2, "username": "sarah", "city": "NYC", "favoriteColor": "blue", age: 40 },
+    { "id": 2, "username": "matthew", "city": "Austin", "favoriteColor": "green", age: 30 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
