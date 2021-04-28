@@ -1,12 +1,39 @@
 {
-  "users": [
-    { "id": 1, "username": "adam" },
-    { "id": 2, "username": "sarah" },
-    { "id": 3, "username": "matthew" }
-  ],
-  "user": [
-    { "id": 1, "username": "adam", "city": "Chicago", "favoriteColor": "red", "age": 25 },
-    { "id": 2, "username": "sarah", "city": "NYC", "favoriteColor": "blue", "age": 40 },
-    { "id": 3, "username": "matthew", "city": "Austin", "favoriteColor": "green", "age": 30 }
-  ]
+   "users":[
+      {
+         "id":1,
+         "username":"adam"
+      },
+      {
+         "id":2,
+         "username":"sarah"
+      },
+      {
+         "id":3,
+         "username":"matthew"
+      }
+   ],
+   "user":[
+      {
+         "id":1,
+         "username":"adam",
+         "city":"Chicago",
+         "favoriteColor":"red",
+         "age":25
+      },
+      {
+         "id":2,
+         "username":"sarah",
+         "city":"NYC",
+         "favoriteColor":"blue",
+         "age":40
+      },
+      {
+         "id":3,
+         "username":"matthew",
+         "city":"Austin",
+         "favoriteColor":"green",
+         "age":30
+      }
+   ]
 }
